@@ -12,14 +12,9 @@
     text-align      : center;
 }
 
-.center {
-    background-color: aquamarine;
-    line-height     : 2px;
-    height          : 220px;
-    width           : 100%;
-    border          : 1px solid rgb(245, 5, 153);
+footer {
     text-align      : center;
-    position        : fixed;
-    left            : 0;
-    bottom          : 0;
+    padding         : 3px;
+    background-color: rgb(255, 64, 0);
+    color           : white;
 }
