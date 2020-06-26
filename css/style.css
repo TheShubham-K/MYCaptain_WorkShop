@@ -17,4 +17,33 @@ footer {
     padding         : 3px;
     background-color: rgb(255, 64, 0);
     color           : white;
+    display         : block;
+}
+
+
+#imagemain {
+    border-radius: 50%;
+    border       : 1px solid rgb(44, 77, 77);
+    padding      : 10px;
+    /* position  : relative; */
+    top          : -50px;
+    width        : 35%;
+    height       : 15%;
+    transition   : all 0.4s ease;
+}
+
+#imagemain:hover {
+    border-radius: 50%;
+    border       : 1px solid rgb(44, 77, 77);
+    padding      : 10px;
+    /* position  : relative; */
+    top          : -50px;
+    width        : 40%;
+    height       : 20%;
+}
+
+#p {
+    margin          : 30px 0px;
+    color           : rgb(197, 0, 197);
+    background-color: aquamarine;
 }
