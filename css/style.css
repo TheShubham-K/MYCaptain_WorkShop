@@ -1,32 +1,76 @@
-
-
-
-h1{
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
-  background-image: url("https://i.pinimg.com/originals/60/dd/09/60dd09616cc510bfcb6e9ee30d3cf228.jpg");
-  color: rgb(7, 216, 231);
-  padding-top: 15px;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 100px;
-  background-size: cover;
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-image: url("https://i.pinimg.com/originals/60/dd/09/60dd09616cc510bfcb6e9ee30d3cf228.jpg");
+    color: rgb(7, 216, 231);
+    padding-top: 15px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100px;
+    background-size: cover;
 }
 
-hr{
-  border-top: 2px solid rgb(162, 0, 255);
-  width: 50%;
-  /* border-radius: 5px; */
+hr {
+    border-top: 2px solid rgb(162, 0, 255);
+    width: 50%;
+    /* border-radius: 5px; */
 }
 
 .myfooter {
-  position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: rgba(255, 0, 191, 0.808);
-   color: white;
-   text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(255, 0, 191, 0.808);
+    color: white;
+    text-align: center;
 }
 
-font-family: 'Montserrat', sans-serif;  
+h2 {
+    margin-top: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: yellow;
+}
+
+img {
+    margin-top: 1.5%;
+    width: 185px;
+    height: 185px;
+}
+
+#sun {
+    margin-top: 3.5%;
+}
+
+#sun_core {
+    height: 25rem;
+    width: 25rem;
+}
+
+.mars {
+    color: brown;
+    margin-top: 2.5%;
+}
+
+#mars {
+    height: 16rem;
+    width: 16rem;
+}
+
+#marsPara {
+    margin-top: 1.5%;
+}
+
+.jup {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: coral;
+    font-size: 2.5rem;
+}
+
+#jup {
+    margin-left: 1rem;
+    height: 30rem;
+    width: 30rem;
+}
