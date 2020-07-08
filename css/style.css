@@ -85,7 +85,7 @@ img {
 }
 
 #factsun {
-    margin-right: 0.5rem;
+    margin-right: 1.5rem;
 }
 
 li {
@@ -97,5 +97,23 @@ li {
 #marsimg {
     margin-left: 1.5rem;
     height: 20rem;
-    width: 39rem;
+    width: 45rem;
+}
+
+#jupimg {
+    margin-left: 1.5rem;
+    height: 20rem;
+    width: 45rem;
+}
+
+#astrobelt {
+    margin-bottom: 1.5rem;
+    height: 20rem;
+    width: 45rem;
+}
+
+#Oortimg {
+    margin-left: 1.5rem;
+    height: 40rem;
+    width: 45rem;
 }
