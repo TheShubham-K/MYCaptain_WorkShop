@@ -42,6 +42,17 @@ h2 {
     color: yellow;
 }
 
+.Services {
+    text-align: center;
+    margin-top: 0.5rem;
+    color: rgb(7, 216, 231);
+}
+
+.services-column {
+    padding: 20px;
+    text-align: center;
+}
+
 #sunimg {
     margin-top: 1.5%;
     margin-left: 1rem;
