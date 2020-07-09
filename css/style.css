@@ -42,6 +42,9 @@ h2 {
     color: yellow;
 }
 
+
+/* Services section */
+
 .Services {
     text-align: center;
     margin-top: 0.5rem;
@@ -50,6 +53,12 @@ h2 {
 
 .services-column {
     padding: 20px;
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+.services-content {
+    margin-top: 2.0rem;
     text-align: center;
 }
 
