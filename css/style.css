@@ -42,10 +42,11 @@ h2 {
     color: yellow;
 }
 
-img {
+#sunimg {
     margin-top: 1.5%;
+    margin-left: 1rem;
     width: 20rem;
-    height: 25rem;
+    height: 20rem;
 }
 
 #sunPara {
@@ -83,9 +84,18 @@ img {
 }
 
 #jup {
-    margin-right: 1rem;
-    height: 30rem;
-    width: 30rem;
+    margin-bottom: 1.0rem;
+}
+
+.jupimg {
+    margin-right: 1.5rem;
+    height: 25rem;
+    width: 20rem;
+}
+
+#jupPara {
+    margin-top: 3.5%;
+    margin-right: 2.5rem;
 }
 
 #factsuntitle {
@@ -125,4 +135,9 @@ li {
     margin-left: 1.5rem;
     height: 40rem;
     width: 45rem;
+}
+
+.carousel-inner {
+    width: 45%;
+    margin: auto;
 }
