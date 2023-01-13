@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "drift-zoom": "^1.4.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.20"
   }
 }
